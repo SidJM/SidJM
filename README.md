@@ -6,7 +6,7 @@ Atualmente estudo e desenvolvo projetos em:
 
 - 🔧 **Suporte Técnico e Infraestrutura**
 - 💻 **Desenvolvimento** (Python, JavaScript & Java – em formação)
-- 📊 **Análise de Dados** (Excel avançado, R – iniciando)
+- 📊 **Análise de Dados** (Excel avançado, R )
 - 🤖 **Inteligência Artificial Generativa & Prompt Engineering**
 - 🗂️ **Automação, organização de processos e melhoria contínua**
 
@@ -48,7 +48,7 @@ Sou movido por aprendizado contínuo, tecnologia acessível e projetos com impac
 ## 🔗 Conecte-se comigo
 
 📍 **LinkedIn:** https://www.linkedin.com/in/sidneymaceno  
-📧 **E-mail:** sidneymaceno@hotmail.com  
+📧 **E-mail:** sidney.maceno@gmail.com  
 
 ---
 
